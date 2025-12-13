@@ -11,11 +11,10 @@ class Competition:
         print(f"Inference device: {self.device}")
 
         # 2. 加载模型
-        # 注意: 提交时 best.pt 必须和此文件在同一级目录
-        model_path = os.path.join(os.path.dirname(__file__), 'best.pt')
+        # 注意: 提交时 best.pt 放在 baseline 文件夹下
+        model_path = os.path.join(os.path.dirname(__file__), 'baseline', 'best.pt')
         if not os.path.exists(model_path):
-            # 本地调试时的 fallback 路径，提交前请确保模型在根目录
-            pass 
+            print(f"Warning: Model not found at {model_path}")
         
         self.model = YOLO(model_path, task='segment')
 
