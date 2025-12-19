@@ -1,0 +1,15 @@
+# YOLOv8 自动支持相对于 yaml 文件的相对路径
+# 或者相对于当前工作目录的相对路径
+
+# 建议写相对于 blood_cell.yaml 所在的目录结构
+# 假设 yaml 在 huaweiblood/huaweiblood 下
+# 数据在 doc/dataset_demo 下
+
+path: ./doc/dataset_demo # 数据集根目录 (相对于运行目录或yaml目录)
+
+train: images/train  # 训练集
+val: images/val      # 验证集
+
+# 类别定义
+names:
+  0: platelet

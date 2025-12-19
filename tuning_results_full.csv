@@ -1,0 +1,10 @@
+model,imgsz,batch,mosaic,mAP50,mAP50-95,best_weights
+yolov8s-seg.pt,640,32,0.0,0.8944657738396722,0.7188010715776183,/data/user/cenzihan/huaweiblood/huaweiblood/runs/segment/tune_yolov8s-seg_640_m0/weights/best.pt
+yolov8n-seg.pt,1280,16,1.0,0.8653887671216693,0.6838706920220884,/data/user/cenzihan/huaweiblood/huaweiblood/runs/segment/tune_yolov8n-seg_1280_m1/weights/best.pt
+yolov8s-seg.pt,640,32,1.0,0.8678032143959363,0.667257313171751,/data/user/cenzihan/huaweiblood/huaweiblood/runs/segment/tune_yolov8s-seg_640_m1/weights/best.pt
+yolov8s-seg.pt,1280,8,1.0,0.8457071925107542,0.6640576330647747,/data/user/cenzihan/huaweiblood/huaweiblood/runs/segment/tune_yolov8s-seg_1280_m1/weights/best.pt
+yolov8m-seg.pt,1280,4,1.0,0.8233419819044017,0.6251536074926347,/data/user/cenzihan/huaweiblood/huaweiblood/runs/segment/tune_yolov8m-seg_1280_m1/weights/best.pt
+yolov8m-seg.pt,640,16,1.0,0.832063896750305,0.6214444686891498,/data/user/cenzihan/huaweiblood/huaweiblood/runs/segment/tune_yolov8m-seg_640_m1/weights/best.pt
+yolov8n-seg.pt,640,32,1.0,0.6678858293372759,0.5096114214288161,/data/user/cenzihan/huaweiblood/huaweiblood/runs/segment/tune_yolov8n-seg_640_m1/weights/best.pt
+yolov8l-seg.pt,640,8,1.0,0.48466828055582717,0.35097365504300215,/data/user/cenzihan/huaweiblood/huaweiblood/runs/segment/tune_yolov8l-seg_640_m1/weights/best.pt
+yolov8l-seg.pt,1280,2,1.0,0.4954503931518239,0.336290474831426,/data/user/cenzihan/huaweiblood/huaweiblood/runs/segment/tune_yolov8l-seg_1280_m1/weights/best.pt

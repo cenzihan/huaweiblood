@@ -1,1 +1,1 @@
-zip -r player_work.zip competition_model.py requirements.txt baseline/ dependencies/
+zip -r player_work.zip competition_model.py requirements.txt baseline/ dependencies/ train/
