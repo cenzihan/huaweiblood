@@ -46,7 +46,7 @@ class Competition:
         # 批量推理参数
         predict_args = {
             'device': self.device,
-            'imgsz': 1280,      # 关键: 提高分辨率检测小目标
+            'imgsz': 640,      # 关键: 提高分辨率检测小目标
             'conf': 0.15,       # 置信度阈值 (稍微调低以防漏检)
             'iou': 0.6,         # NMS 阈值
             'max_det': 300,     # 每张图最大目标数
