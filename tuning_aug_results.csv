@@ -1,0 +1,17 @@
+model,fliplr,flipud,mixup,mAP50,mAP50-95,best_weights
+yolov8m-seg.pt,0.0,0.0,0.2,0.8787770184003451,0.6868245403075324,/data/user/cenzihan/huaweiblood/huaweiblood/runs/segment/aug_yolov8m-seg_lr0.0_ud0.0_mix0.2/weights/best.pt
+yolov8m-seg.pt,0.0,0.5,0.2,0.8682837954005086,0.6586237608086518,/data/user/cenzihan/huaweiblood/huaweiblood/runs/segment/aug_yolov8m-seg_lr0.0_ud0.5_mix0.2/weights/best.pt
+yolov8m-seg.pt,0.0,0.5,0.0,0.8540220643215544,0.6566714506890583,/data/user/cenzihan/huaweiblood/huaweiblood/runs/segment/aug_yolov8m-seg_lr0.0_ud0.5_mix0.0/weights/best.pt
+yolov8m-seg.pt,0.5,0.0,0.0,0.8362802780077243,0.6549375360981526,/data/user/cenzihan/huaweiblood/huaweiblood/runs/segment/aug_yolov8m-seg_lr0.5_ud0.0_mix0.0/weights/best.pt
+yolov8m-seg.pt,0.5,0.0,0.2,0.8600219959234645,0.6437047977315166,/data/user/cenzihan/huaweiblood/huaweiblood/runs/segment/aug_yolov8m-seg_lr0.5_ud0.0_mix0.2/weights/best.pt
+yolov8m-seg.pt,0.5,0.5,0.2,0.8504065035631244,0.6423683874821191,/data/user/cenzihan/huaweiblood/huaweiblood/runs/segment/aug_yolov8m-seg_lr0.5_ud0.5_mix0.2/weights/best.pt
+yolov8m-seg.pt,0.5,0.5,0.0,0.8578702060635308,0.638669717614893,/data/user/cenzihan/huaweiblood/huaweiblood/runs/segment/aug_yolov8m-seg_lr0.5_ud0.5_mix0.0/weights/best.pt
+yolov8m-seg.pt,0.0,0.0,0.0,0.8642889773561114,0.6243972786973389,/data/user/cenzihan/huaweiblood/huaweiblood/runs/segment/aug_yolov8m-seg_lr0.0_ud0.0_mix0.0/weights/best.pt
+yolov8l-seg.pt,0.0,0.0,0.0,0.7940692047163526,0.5320106980613976,/data/user/cenzihan/huaweiblood/huaweiblood/runs/segment/aug_yolov8l-seg_lr0.0_ud0.0_mix0.0/weights/best.pt
+yolov8l-seg.pt,0.5,0.0,0.2,0.7465595933854312,0.526794317793803,/data/user/cenzihan/huaweiblood/huaweiblood/runs/segment/aug_yolov8l-seg_lr0.5_ud0.0_mix0.2/weights/best.pt
+yolov8l-seg.pt,0.0,0.0,0.2,0.866949724836175,0.5203393633971838,/data/user/cenzihan/huaweiblood/huaweiblood/runs/segment/aug_yolov8l-seg_lr0.0_ud0.0_mix0.2/weights/best.pt
+yolov8l-seg.pt,0.0,0.5,0.0,0.7981197342682034,0.4838803458005744,/data/user/cenzihan/huaweiblood/huaweiblood/runs/segment/aug_yolov8l-seg_lr0.0_ud0.5_mix0.0/weights/best.pt
+yolov8l-seg.pt,0.5,0.0,0.0,0.6331225574260827,0.4229427562641913,/data/user/cenzihan/huaweiblood/huaweiblood/runs/segment/aug_yolov8l-seg_lr0.5_ud0.0_mix0.0/weights/best.pt
+yolov8l-seg.pt,0.5,0.5,0.0,0.6201146884171533,0.3894192754420575,/data/user/cenzihan/huaweiblood/huaweiblood/runs/segment/aug_yolov8l-seg_lr0.5_ud0.5_mix0.0/weights/best.pt
+yolov8l-seg.pt,0.0,0.5,0.2,0.4229810564877494,0.20077730093313803,/data/user/cenzihan/huaweiblood/huaweiblood/runs/segment/aug_yolov8l-seg_lr0.0_ud0.5_mix0.2/weights/best.pt
+yolov8l-seg.pt,0.5,0.5,0.2,0.2821735374327272,0.1923093475979122,/data/user/cenzihan/huaweiblood/huaweiblood/runs/segment/aug_yolov8l-seg_lr0.5_ud0.5_mix0.2/weights/best.pt
